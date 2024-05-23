@@ -4,12 +4,15 @@ Find this document here: [tinyurl.com/ytjm6mbw]()
 
 ## Register Your Validator
 
+Download the validator registration script here: https://github.com/NethermindEth/shutter-validator-registration
+
 ## Send Your First Shutterized Transaction
 
 1. Add the _Encrypting RPC Server_ for Chiado to your wallet (for Metamask, click "Settings" -> "Networks" -> "Add Network" -> "Add a network manually"). Use the following settings:
 
-| Network Name       | Shutterized Chiado                          |
+| Setting            | Value                                       |
 | ------------------ | ------------------------------------------- |
+| Network Name       | Shutterized Chiado                          |
 | RPC URL            | https://erpc.chiado.staging.shutter.network |
 | Chain ID           | 10200                                       |
 | Currency Symbol    | XDAI                                        |
