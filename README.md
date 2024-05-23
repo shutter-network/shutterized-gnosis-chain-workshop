@@ -1,10 +1,11 @@
 # Shutterized Gnosis Chain Workshop
 
 Find this document here: [tinyurl.com/ytjm6mbw]()
+![QR code](./qrcode.png)
 
 ## Register Your Validator
 
-Download the validator registration script here: https://github.com/NethermindEth/shutter-validator-registration
+Download the validator registration script here and follow the instructions: https://github.com/NethermindEth/shutter-validator-registration
 
 ## Send Your First Shutterized Transaction
 
