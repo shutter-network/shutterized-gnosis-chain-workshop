@@ -4,10 +4,6 @@ Find this document here: [tinyurl.com/ytjm6mbw]()
 
 ![QR code](./qrcode.png)
 
-## Register Your Validator
-
-Download the validator registration script here and follow the instructions: https://github.com/NethermindEth/shutter-validator-registration
-
 ## Send Your First Shutterized Transaction
 
 1. Add the _Encrypting RPC Server_ for Chiado to your wallet (for Metamask, click "Settings" -> "Networks" -> "Add Network" -> "Add a network manually"). Use the following settings:
@@ -25,3 +21,7 @@ Download the validator registration script here and follow the instructions: htt
 3. Send a transaction!
 
 4. Optional: Observe it in the [sequencer contract](https://gnosis-chiado.blockscout.com/address/0xd073BD5A717Dce1832890f2Fdd9F4fBC4555e41A). It's encrypted though, so there's not much to see.
+
+## Register Your Validator
+
+Download the validator registration script here and follow the instructions: https://github.com/NethermindEth/shutter-validator-registration
