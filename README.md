@@ -1,6 +1,7 @@
 # Shutterized Gnosis Chain Workshop
 
 Find this document here: [tinyurl.com/ytjm6mbw]()
+
 ![QR code](./qrcode.png)
 
 ## Register Your Validator
